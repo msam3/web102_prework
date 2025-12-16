@@ -23,10 +23,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough video of implemented features:
 
-[Click here to watch](assets/walkthrough.mov) 
+(https://www.loom.com/share/20ed6549401b4855ac37407757120bba)
 
 <!-- Replace this with whatever GIF tool you used! -->
-Video created with Apple built-in screen recording
+Video created with Loom Screen Recording
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
