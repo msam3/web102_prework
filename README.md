@@ -1,10 +1,10 @@
-ccd # WEB102 Prework - *Name of App Here*
+ccd # WEB102 Prework - Crowfunding Monster Tracker
 
 Submitted by: Melanie Samudio
 
 Sea Monster Crowdfunding Tracker is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: 7 hours spent in total
+Time spent: 9 hours spent in total
 
 ## Required Features
 
@@ -38,7 +38,7 @@ The biggest challenge creating this website was understanding the use of Git and
 I had a vague understanding of it so to spend time using it made the distinction clear to me what each 
 actually does. I also had a bit of difficulty with the logical aspect of JS. Using the rendering, filter
 ing data, and manipulating the DOM. I spent a lot of time trying to fix some of my code, but it also ma-
-de me better understand how JS controls page behavior. 
+de me better understand how JS controls page behavior. Filters, stats, 
 
 ## License
 
